@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Карта.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Карта.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Карта.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Карта.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Карта.md"
+                "file": "README.md.md"
               }
             }
           },
@@ -172,13 +172,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fde411dbce9307f6",
+  "active": "9b6d2386e3d276f7",
   "lastOpenFiles": [
     "Посты/Критика партий.md",
     "Русские понятия/Предпосылки отчизнолюбия.md",
     "Посты/Нам пора верно интерпретировать результаты противостояния добра и зла!.md",
     "Посты/Медиа-борцухи.md",
-    "Карта.md",
+    "README.md.md",
     "Остальное/Метафизика пользовательского опыта как технологические решения предопределяют наше поведение в цифровой реальности.md",
     "DataView.md",
     "Посты/Ту-ту-нберг.md",
