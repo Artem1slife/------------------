@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "afed5899babd457e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d995a19f9bce2f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3270cc1dbdeab1df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Карта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fde411dbce9307f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Карта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b4a41e5a8205e02",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8a9ceedbed0cef3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b6d2386e3d276f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "e5ef034a50f69132",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#сво",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "222fbe8b75ad69e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "15434c1dfa162a0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d536cf4cb4673218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2758a4e7cefc7c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Карта.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49b69d688bdb4dab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Карта.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6416059efe2442db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a38a6938297d5289",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Карта.md"
+              }
+            }
+          },
+          {
+            "id": "9ed3505ede738f77",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "ai-tagger:Generate tags!": false,
+      "quick-tagger:Add tag to current note": false,
+      "quick-tagger:Remove tag from current note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "fde411dbce9307f6",
+  "lastOpenFiles": [
+    "Посты/Критика партий.md",
+    "Русские понятия/Предпосылки отчизнолюбия.md",
+    "Посты/Нам пора верно интерпретировать результаты противостояния добра и зла!.md",
+    "Посты/Медиа-борцухи.md",
+    "Карта.md",
+    "Остальное/Метафизика пользовательского опыта как технологические решения предопределяют наше поведение в цифровой реальности.md",
+    "DataView.md",
+    "Посты/Ту-ту-нберг.md",
+    "Остальное/Голодные и возбужденные.md",
+    "Меритократический взгляд/✝️М и ее отношение к религии.md",
+    "Меритократическая теория/Грех, как неотъемлемая основа «антитворчества».md",
+    "Антидемократия/Тоталитарная идея равенства.md",
+    "Посты/Запрет Чайлдфри.md",
+    "Посты/Протесты в Париже.md",
+    "папка с файлами/Pasted image 20240610140250.png",
+    "Посты",
+    "Остальное",
+    "папка с файлами/Pasted image 20240505234040.png",
+    "папка с файлами/Pasted image 20240505233755.png",
+    "папка с файлами/м отношение к религии.png",
+    "Меритократическая теория",
+    "Меритократический взгляд",
+    "Русские понятия",
+    "Антидемократия",
+    "папка с файлами/Pasted image 20240505234535.png",
+    "папка с файлами/folder emojis.css",
+    "folder emojis.css",
+    "2024-05-05.md",
+    "Без названия.canvas",
+    "Без названия 1.canvas",
+    "папка с файлами",
+    "Welcome.md"
+  ]
+}
